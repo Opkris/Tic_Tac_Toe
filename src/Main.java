@@ -2,6 +2,7 @@ import java.util.*;
 
 public class Main {
 
+    // Keep track of player and CPU positions.
     static ArrayList<Integer> playerPositions = new ArrayList<>();
     static ArrayList<Integer> cpuPositions = new ArrayList<>();
 
